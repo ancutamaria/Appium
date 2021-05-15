@@ -1,0 +1,9 @@
+- open emulator Pixel_4_API_29
+ApiDemos_debug.apk app
+    - install on emulator
+
+pass this info to the appium server
+
+connection step to server
+
+// run code

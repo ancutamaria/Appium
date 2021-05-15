@@ -1,0 +1,5 @@
+Install .apk files
+
+Now finally to install android application .apk files, download and place .apk file in /tools folder and type “adb install my_android_app.apk”, press return.
+
+adb install C:\Users\40728\AppData\Local\Android\Sdk\tools\ApiDemos-debug.apk
