@@ -1,5 +1,18 @@
 Install .apk files
-
-Now finally to install android application .apk files, download and place .apk file in /tools folder and type “adb install my_android_app.apk”, press return.
-
+-> Now finally to install android application .apk files, download and place .apk file in /tools folder and type “adb install my_android_app.apk”, press return.
 adb install C:\Users\40728\AppData\Local\Android\Sdk\tools\ApiDemos-debug.apk
+
+
+to get the details of the elements on the screen,
+-> run C:\Users\40728\AppData\Local\Android\Sdk\tools\bin\uiautomatorviewer.bat
+but first start the emulator and start de app, and only after that start this script 
+
+UI Automator Viewer - C:\Users\40728\AppData\Local\Android\Sdk\tools\bin
+Error while obtaining UI hierarchy XML file:
+-> stop the appium server 
++ https://stackoverflow.com/questions/40214342/error-obtaining-ui-hierarchy-error-while-obtaining-ui-hierarchy-xml-file-com-an
+
+
+java.lang.ClassNotFoundException: org.apache.commons.lang3.StringUtils
+-> download and add commons-lang3-3.7.jar
+

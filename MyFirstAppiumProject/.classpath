@@ -14,5 +14,6 @@
 	<classpathentry kind="lib" path="D:/programming/Appium/Appium/MyFirstAppiumProject/libs/selenium-java-3.141.59/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="D:/programming/Appium/Appium/MyFirstAppiumProject/libs/selenium-java-3.141.59/libs/okio-1.14.0.jar"/>
 	<classpathentry kind="lib" path="D:/programming/Appium/Appium/MyFirstAppiumProject/libs/java-client-7.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/programming/Appium/Appium/MyFirstAppiumProject/libs/commons-lang3-3.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
